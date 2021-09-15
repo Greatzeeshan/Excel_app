@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810876729663",
+    "project_id": "flutterexcel",
+    "storage_bucket": "flutterexcel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810876729663:android:873d77eaff93a24b65bb8a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_excel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810876729663-9umcauihh05hrcv79dh9ephptk7qcc3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs72Zw3wkV5GkynmaAs2wbiRpuosn5CBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810876729663-9umcauihh05hrcv79dh9ephptk7qcc3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
